@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: '@thankyoudom'
+tagline: 
+url: https://projects.thankyoudom.com
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,9 +33,17 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Dominique
+  url: https://twitter.com/thankyoudom
+  email: thankyoudom@gmail.com
 
 # Custom vars
 version: 3.0.0
+
+# Navbar page list
+nav:
+  - title: Projects
+    url: /archive
+
+  - title: About
+    url: /about
