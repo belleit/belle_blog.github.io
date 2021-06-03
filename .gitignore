@@ -42,5 +42,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 
+
 # Folders to ignore
-vender
+vendor
