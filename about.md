@@ -8,7 +8,7 @@ Dominique Northecide is a full-stack web developer and UX/UI computer software d
 
 -----
 
-Can sometimes be found scribbling in a [sketchbook](https://www.thankyoudom.com/sketch) or working on an eclectic collection of sounds.
+Can sometimes be found scribbling in a [sketchbook](https://thankyoudom.com/images/sketchbook.pdf) or working on an eclectic collection of sounds.
 
 
 Have questions or feedback? Let's get in [contact](https://thankyoudom.com/contact)
