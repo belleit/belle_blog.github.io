@@ -3,27 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Dominique Northecide is a full-stack web developer and UX/UI computer software designer. Contributing his technical passion and creative skills towards a career in software development and multimedia initiatives, Northecide manipulates his array of skills as a means to leverage his two years of university education in Computer Science at Tuskegee University, six months of coding bootcamp training at [LaunchCode](https://www.launchcode.org/), and BFA in Graphic Design at Florida Atlantic University.  
 
-There are currently two themes built on Poole:
+Can sometimes be found scribbling in a [sketchbook](https://www.thankyoudom.com/sketch) or working on an eclectic collection of sounds.
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Have questions or feedback? Feel free to [contact me](https://thankyoudom.com/contact)
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for being here!
