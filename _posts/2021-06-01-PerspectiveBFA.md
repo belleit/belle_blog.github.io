@@ -78,6 +78,15 @@ Congratulatiions to my teammates for an excellent school year, here’s our [exh
 
 <br/>
 
-![placeholder](/assets/img/pbfa5.png "Large example image")
+![placeholder](/assets/img/pbfa11.png "Large example image")
+
+The image above is a screenshot from Google Analytics, displaying the performance metrics of various pages from our exhibition. The table includes data for pageviews, unique pageviews, average time on page, and entrances for each listed page. Key points are:
+
+1. The homepage has the highest number of pageviews (2,046), unique pageviews (1,021), and an average time on page of 26 seconds.
+2. The second-most visited page, indicated by a "/" (homepage), has 462 pageviews, 406 unique pageviews, and an average time on page of 5 seconds.
+3. Several designer profile pages show a range of pageviews (from 151 to 265), unique pageviews (from 100 to 207), and average times on page (ranging from 4. 4 seconds to 1 minute and 21 seconds).
+4. The acknowledgements page has 207 pageviews, 57 unique pageviews, and an average time on page of 46 seconds.
+
+Overall, this data highlights the distribution of user engagement across different sections of our exhibition.
 
 
