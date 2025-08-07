@@ -3,7 +3,7 @@ title: '@belleitinc'
 tagline: 
 url: https://blog.belleit.net
 paginate: 1
-baseurl: "https://belleit.net"
+baseurl: ""
 permalink: pretty
 
 # Gems
