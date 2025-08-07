@@ -1,9 +1,9 @@
 # Setup
-title: '@thankyoudom'
+title: '@belleitinc'
 tagline: 
-url: https://projects.thankyoudom.com
+url: https://belleit.net
 paginate: 1
-baseurl: ""
+baseurl: "https://belleit.net"
 permalink: pretty
 
 # Gems
@@ -33,16 +33,16 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Dominique
-  url: https://twitter.com/thankyoudom
-  email: thankyoudom@gmail.com
+  name: Belle IT, INC
+  url: https://x.com/belleitinc
+  email: info@belleit.net
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Projects
+  - title: Posts
     url: /archive
 
   - title: About
