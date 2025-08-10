@@ -8,10 +8,10 @@ Our team is a diverse group of professionals with a deep commitment to the healt
 
 -----
 
-We’ve compiled our services and capabilities into the following [business overview](/assets/img/sketches.pdf) 
+We’ve compiled our services and capabilities into the following [business overview](/assets/img/BelleIT-Caring Through InnovationV2.png) 
 
 
-Have questions or feedback? Let's get in [contact](https://thankyoudom.com/contact)
+Have questions or feedback? Let's get in [contact](https://belleit.net/contact)
 
 Thanks for being here!
 
